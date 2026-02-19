@@ -4,7 +4,8 @@ description: Analyze relationship dynamics through the lens of who is Subject an
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4939
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-other-dialectic
 - transformation
